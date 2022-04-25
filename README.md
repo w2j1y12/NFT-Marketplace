@@ -1,7 +1,7 @@
 # NFT-Marketplace
 
-Youtube : https://www.youtube.com/watch?v=2bjVWclBD_s
-Github : https://github.com/dappuniversity/nft_marketplace
+### Youtube : https://www.youtube.com/watch?v=2bjVWclBD_s
+### Github : https://github.com/dappuniversity/nft_marketplace
 
 ```
 npm install -- save-dev hardhat@2.8.4
