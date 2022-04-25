@@ -14,4 +14,4 @@ npm i @openzepplin/contracts@4.5.0
 nodejs
 hardhat
 metamask
-OpenZepplin
+OpenZeppelin
