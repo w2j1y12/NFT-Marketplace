@@ -25,4 +25,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ```
 npx hardhat node
+npx hardhat run src/backend/scripts/deploy.js --network localhost
 ```
