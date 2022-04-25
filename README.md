@@ -26,4 +26,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ```
 npx hardhat node
 npx hardhat run src/backend/scripts/deploy.js --network localhost
+npx hardhat console
+- const contract = await ethers getContractAt("NFT", "0x5FbDB2315678afecb367f032d93F642f64180aa3")
+- const tokenCount = await contract.tokenCount() -> BigNumber{value:"0"}
+- const name = await contract.name() -> 'DApp NFT'
+- const symbol = await contract.symbol() -> 'DAPP'
 ```
